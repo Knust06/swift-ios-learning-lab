@@ -1,36 +1,41 @@
 # Swift & iOS Learning Lab
 
-Repositório pessoal com exercícios, playgrounds e pequenos projetos criados durante uma trilha de aprendizagem de Swift e desenvolvimento iOS em 2022.
+This personal repository contains Swift playgrounds, exercises, and experimental iOS applications. It was created during a 2022 learning path and is preserved as a historical record of that study process.
 
-> Este material é mantido como histórico de estudos. Alguns exemplos estão incompletos ou refletem APIs e práticas da época em que foram produzidos.
+> Some examples are incomplete or reflect the APIs and practices used when they were created. This repository does not represent current production code.
 
-## Conteúdo
+## Main Topics
 
-O repositório reúne exemplos de:
+- Swift fundamentals, types, operators, control flow, functions, and collections
+- Object-oriented programming, inheritance, encapsulation, and optionals
+- UIKit foundations and platform APIs explored in playgrounds
+- SwiftUI views, navigation, state, and basic interface composition
+- Experimental applications using Xcode projects and playgrounds
 
-- fundamentos da linguagem Swift;
-- tipos, operadores, condicionais e estruturas de repetição;
-- funções, closures e coleções;
-- orientação a objetos, herança e encapsulamento;
-- UIKit, navegação e construção de telas;
-- playgrounds e aplicações experimentais em Xcode.
+## Repository Contents
 
-## Requisitos
+- `Calculator.playground`, `MyPlayground3.playground`, and `MyPlaygroundAula.playground`: language exercises and experiments
+- `Navigation`: SwiftUI navigation and view composition examples
+- `ProjetoAlvo`: an experimental SwiftUI application
+- `ProjVerão2024`: a later experimental SwiftUI and Core Data application preserved with the learning materials
+
+## Requirements
 
 - macOS
 - Xcode
-- uma versão do Swift compatível com cada projeto ou playground
+- A Swift version compatible with the selected project or playground
 
-## Como explorar
+## Opening the Examples
 
-1. Abra o arquivo `.xcodeproj`, `.xcworkspace` ou `.playground` correspondente no Xcode.
-2. Selecione um simulador compatível quando o exemplo for uma aplicação iOS.
-3. Compile e execute pelo próprio Xcode.
+1. Clone or download the repository on macOS.
+2. Open the relevant `.xcodeproj`, `.xcworkspace`, or `.playground` file in Xcode.
+3. For an iOS application, select a compatible simulator and run the project from Xcode.
+4. For a playground, open it and run the playground page to inspect its output.
 
 ## Status
 
-Projeto de estudo arquivado e sem manutenção ativa. Ele não representa a arquitetura ou os padrões que utilizo atualmente em aplicações de produção.
+**Archived learning project.** It is retained for educational and historical purposes and is not actively maintained.
 
-## Autor
+## Contact
 
-[Lucas Knust](https://www.linkedin.com/in/lucas-knust/)
+[LinkedIn](https://www.linkedin.com/in/lucas-knust/)
